@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<!DOCTYPE travel [
+   <!ELEMENT name ((#PCDATA)>
+   <!ELEMENT type (#PCDATA)>
+   <!ELEMENT location (#PCDATA)>
+   <!ELEMENT price (#PCDATA)>
+   <!ELEMENT date (#PCDATA)>
+]>
