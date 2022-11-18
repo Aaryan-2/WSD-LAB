@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "tms.xsl"?>
+<catalog>
+   <travel id="tr101">
+      <name>Adams Matthew</name>
+      <type>Flight</type>
+      <location>French Polynesia</location>
+      <price>11,000</price>
+      <date>2022-12-01</date>
+      
+   </travel>
+   <travel id="tr102">
+      <name>Ralls Kim</name>
+      <type>Hotel</type>
+      <location>Peru</location>
+      <price>4,500</price>
+      <date>2023-01-16</date>
+     
+   </travel>
+   <travel id="tr103">
+      <name>Corets Eva</name>
+      <type>Cruise</type>
+      <location>Australia</location>
+      <price>22,000</price>
+      <date>2022-12-25</date>
+
+   </travel>
+   <travel id="tr104">
+      <name>Davis Eva</name>
+      <type>Flight</type>
+      <location>Thailand</location>
+      <price>6,000</price>
+      <date>2022-12-30</date>
+
+   </travel>
+   <travel id="tr105">
+      <name>Reily Trott</name>
+      <type>Cruise</type>
+      <location>Turkey</location>
+      <price>15,000</price>
+      <date>2023-02-20</date>
+
+   </travel>
+   <travel id="tr106">
+      <name>Randall Cynthia</name>
+      <type>Hotel</type>
+      <location>France</location>
+      <price>8,500</price>
+      <date>2023-01-19</date>
+
+   </travel>
+   <travel id="tr107">
+      <name>Thurman Paula</name>
+      <type>Car Rental</type>
+      <location>United States</location>
+      <price>900</price>
+      <date>2022-12-01</date>
+
+   </travel>
+   <travel id="tr108">
+      <name>Knorr Stefan</name>
+      <type>Train</type>
+      <location>Germany</location>
+      <price>1,500</price>
+      <date>2022-12-06</date>
+
+   </travel>
+   <travel id="tr109">
+      <name>Kress Peter</name>
+      <type>Car Rental</type>
+      <location>Mexico</location>
+      <price>420</price>
+      <date>2022-11-26</date>
+
+   </travel>
+   <travel id="tr110">
+      <name>O'Brien Tim</name>
+      <type>Flight</type>
+      <location>Cambodia</location>
+      <price>6,900</price>
+      <date>2022-12-16</date>
+ 
+   </travel>
+   <travel id="tr111">
+      <name>Valdo Tim</name>
+      <type>Train</type>
+      <location>Italy</location>
+      <price>2,000</price>
+      <date>2022-12-31</date>
+
+   </travel>
+   <travel id="tr112">
+      <name>Galos Mike</name>
+      <type>Hotel</type>
+      <location>India</location>
+      <price>5,300</price>
+      <date>2023-03-03</date>
+
+   </travel>
+</catalog>
