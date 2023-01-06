@@ -1,0 +1,22 @@
+[
+  {
+    "travel_type": "Flight",
+    "price": 15000
+  },
+  {
+    "travel_type": "Train",
+    "price": 5000
+  },
+  {
+    "travel_type": "Hotel",
+    "price": 6000
+  },
+  {
+    "travel_type": "Car Rental",
+    "price": 800
+  },
+  {
+    "travel_type": "Cruise",
+    "price": 20000
+  }
+]
